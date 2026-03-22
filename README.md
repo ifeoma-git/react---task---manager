@@ -29,3 +29,8 @@ npm start
 
 The app runs at:
 http://localhost:3000
+
+## What I Learned
+- State management in React
+- Component-based architecture
+- Handling user interactions and edge cases
